@@ -1,9 +1,14 @@
-# api documentation for  [invariant (v2.2.2)](https://github.com/zertosh/invariant#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-invariant.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-invariant) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-invariant.svg)](https://travis-ci.org/npmdoc/node-npmdoc-invariant)
+# npmdoc-invariant
+
+#### api documentation for  [invariant (v2.2.2)](https://github.com/zertosh/invariant#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-invariant.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-invariant) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-invariant.svg)](https://travis-ci.org/npmdoc/node-npmdoc-invariant)
+
 #### invariant
 
-[![NPM](https://nodei.co/npm/invariant.png?downloads=true)](https://www.npmjs.com/package/invariant)
+[![NPM](https://nodei.co/npm/invariant.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/invariant)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-invariant/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-invariant_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-invariant/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-invariant/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-invariant/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-invariant/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-invariant/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-invariant/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "Andres Suarez",
-        "email": "zertosh@gmail.com"
+        "name": "Andres Suarez"
     },
     "browser": "browser.js",
     "browserify": {
@@ -58,17 +62,14 @@
     "main": "invariant.js",
     "maintainers": [
         {
-            "name": "cpojer",
-            "email": "christoph.pojer@gmail.com"
+            "name": "cpojer"
         },
         {
-            "name": "zertosh",
-            "email": "zertosh@gmail.com"
+            "name": "zertosh"
         }
     ],
     "name": "invariant",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/zertosh/invariant.git"
@@ -79,16 +80,6 @@
     "version": "2.2.2"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module invariant](#apidoc.module.invariant)
-
-
-
-# <a name="apidoc.module.invariant"></a>[module invariant](#apidoc.module.invariant)
 
 
 
